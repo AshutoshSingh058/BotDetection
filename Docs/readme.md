@@ -61,4 +61,4 @@ The project includes a **Gradio-based web interface** for real-time bot detectio
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Contact
-For any queries, reach out at shivharenikhil88@gmail.com.
+For any queries, reach out at singhash058@gmail.com.
